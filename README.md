@@ -23,6 +23,8 @@
 ### Limites
 Données de 2017, analyse purement quantitative : barrières non tarifaires et logistique à intégrer avant tout engagement commercial.
 
+<img src="images/Capture d'écran 2026-06-26 142716.png" width="500px"><img src="images/Capture d'écran 2026-06-26 142956.png" width="500px">
+
 ---
 📂 Dossier complet sur mon portfolio : [remydaura.github.io/p11.html](https://remydaura.github.io/p11.html)
 
