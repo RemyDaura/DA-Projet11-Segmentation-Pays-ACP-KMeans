@@ -21,7 +21,7 @@
 * **Techniques :** ACP, CAH, K-means, Adjusted Rand Index, analyse PESTEL
 
 ### Reproduire l'analyse
-Les données brutes sont dans `data-raw/`. Pour exécuter les notebooks, placez ces fichiers dans le même dossier que le notebook.
+Les données brutes sont dans `data-raw/`. Pour exécuter les notebooks, placez ces fichiers dans le même dossier que le notebook. Le fichier `DisponibiliteAlimentaire_2017.csv` (bilans alimentaires de la FAO, 2017), lu par le premier notebook, dépasse la taille autorisée par GitHub : il est téléchargeable sur FAOSTAT, le portail de données de la FAO.
 
 ### Limites
 Données de 2017, analyse purement quantitative : barrières non tarifaires et logistique à intégrer avant tout engagement commercial.
